@@ -11,6 +11,8 @@
         <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
         <LangVersion>8</LangVersion>
         <Version>2.1.3</Version>
+        <FileVersion>2.1.3</FileVersion>
+        <AssemblyVersion>2.1.3</AssemblyVersion>
         <NoWarn>$(NoWarn);CS0618</NoWarn>
     </PropertyGroup>
     <ItemGroup>
